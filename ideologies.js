@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "Kaiserreich Enjoier",
+        "name": "Kaiserreich Enjoyier",
         "stats": {
             "econ": 80,
             "dipl": 30,
@@ -111,13 +111,13 @@ ideologies = [
         "name": "Ameriacommie",
         "stats": {
             "econ": 70,
-            "dipl": 20,
+            "dipl": 0,
             "govt": 50,
             "scty": 70
         }
     },
     {
-        "name": "REAL Libertarian",
+        "name": "The REAL Libertarian",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -297,7 +297,7 @@ ideologies = [
         }
     },
     {
-        "name": "Asian Wive Fan",
+        "name": "Asian Wives Fan",
         "stats": {
             "econ": 30,
             "dipl": 50,
